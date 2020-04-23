@@ -4,6 +4,7 @@
     <meta charset="utf-8">
   </head>
   <body>
+    <h1>Mandoo Company</h1>
     <h3>Mandoo Company란? 만새두끼 회장님이 악랄하게 노동자들을 착취하는 곳이다.<br></h3>
     <a href="https://sites.google.com/view/mandoo" target="_blank">Mandoo the boss 회장님의 이미지.</a><br>
     <p>
